@@ -9,7 +9,7 @@
      Red Hat Enterprise Linux, CentOS, Oracle, Fedora, Ubuntu, PopOS, Tails, Kali, Debian
      
 - I’m currently learning: Everything under the sun at once
-- I’m looking to collaborate on: Anything 😅
+- I’m looking to collaborate on: Anything
 - How to reach me on Discord @ ResetLifeNow #5897 or Slack @ ResetLifeNow
 
 <!---
