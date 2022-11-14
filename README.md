@@ -1,4 +1,4 @@
-@ResetLifeNow  🃏
+@ResetLifeNow  🐈‍⬛
 
 -  I’m interested in:
      IaC, security products, security engineering, systems engineering, DevOps, ML, AI, and hacking
