@@ -1,4 +1,4 @@
-@ResetLifeNow🃏
+@ResetLifeNow  🃏
 
 -  I’m interested in:
      IaC, security products, security engineering, systems engineering, DevOps, ML, AI, and hacking
@@ -10,7 +10,7 @@
      
 - I’m currently learning: Everything under the sun at once
 - I’m looking to collaborate on: Anything 😅
-- How to reach me on Discord @ Pepper Grey #5887
+- How to reach me on Discord @ ResetLifeNow #5897 or Slack @ ResetLifeNow
 
 <!---
 ResetLifeNow/ResetLifeNow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
