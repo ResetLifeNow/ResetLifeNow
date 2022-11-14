@@ -3,7 +3,7 @@
 -  I’m interested in:
      IaC, security products, security engineering, systems engineering, DevOps, ML, AI, and hacking
 -  Applications/Scripting Languages/ Programming Languages:
-     Ansible, Bash, Python, Terraform, TensorFlow, Security Onion, ElasticStack, PiHole, Wazzuh, Kibana Caldera 
+     Ansible, Bash, Python, Terraform, TensorFlow, Security Onion, ElasticStack, PiHole, Wazzuh, Kibana, Caldera 
   
 -  Linux:
      Red Hat Enterprise Linux, CentOS, Oracle, Fedora, Ubuntu, PopOS, Tails, Kali, Debian
